@@ -21,6 +21,8 @@ Put script.txt on your flipper zero or on your rubber ducky / badusb.
 
 Launch the script on the Pc victim and wait for that the popup appears on the victim's screen ,when the victim will have put his password it will be sent to you on discord.
 
+(If you have probleme contact me on Discord ロワイヤル#6167 )
+
 
 # Configuration :
 
@@ -37,6 +39,8 @@ Ouvrez script.txt et remplacez "YOUR_WEBSITE" par le lien du script de test que 
 Placez le script.txt sur votre flipper zero ou sur votre rubber ducky / badusb.
 
 Lancez le script sur le Pc victime et attendez que le popup apparaisse sur l'écran de la victime ,quand la victime aura mis son mot de passe il vous sera envoyé sur discord.
+
+(Si vous avez des problemes contacter moi sur discord ロワイヤル#6167 )
 
 
 # Example :
