@@ -37,3 +37,8 @@ Ouvrez script.txt et remplacez "YOUR_WEBSITE" par le lien du script de test que 
 Placez le script.txt sur votre flipper zero ou sur votre rubber ducky / badusb.
 
 Lancez le script sur le Pc victime et attendez que le popup apparaisse sur l'écran de la victime ,quand la victime aura mis son mot de passe il vous sera envoyé sur discord.
+
+
+# Example :
+
+![PopUp](https://user-images.githubusercontent.com/124714582/224548985-7bf9c75e-c7b4-4574-811d-da5b661186e9.png)
